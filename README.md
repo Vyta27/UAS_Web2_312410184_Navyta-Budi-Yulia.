@@ -178,7 +178,15 @@ UAS_Web2_NIM_Nama/
 
 
 ### 5. Form Tambah / Edit Barang
-📸 [Screenshot modal form barang]
+
+<img width="960" height="504" alt="Image" src="https://github.com/user-attachments/assets/ce21a86c-ac71-4f97-adf0-b8ea1b782839" />
+
+<img width="960" height="504" alt="Image" src="https://github.com/user-attachments/assets/25b378c5-900b-47d0-8c87-61a63c344fcc" />
+
+<img width="960" height="504" alt="Image" src="https://github.com/user-attachments/assets/035a7088-1472-4669-a9f3-d8291d1b48c0" />
+
+<img width="960" height="504" alt="Image" src="https://github.com/user-attachments/assets/0a9d701b-f483-4019-b744-60b18af3334c" />
+
 
 ### 6. Kelola Kategori
 
