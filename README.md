@@ -68,38 +68,23 @@ UAS_Web2_NIM_Nama/
 
 ### Tabel `kategori`
 | Kolom | Tipe | Keterangan |
-|---|---|---|
-| id_kategori | INT AUTO_INCREMENT | Primary Key |
-| nama_kategori | VARCHAR(100) | Nama kategori |
-| deskripsi | TEXT | Deskripsi kategori |
+
+<img width="410" height="80" alt="Image" src="https://github.com/user-attachments/assets/b5df64b4-6e35-4a3e-9759-6e0839116166" />
 
 ### Tabel `supplier`
-| Kolom | Tipe | Keterangan |
-|---|---|---|
-| id_supplier | INT AUTO_INCREMENT | Primary Key |
-| nama_supplier | VARCHAR(100) | Nama supplier |
-| alamat | TEXT | Alamat supplier |
-| telpon | VARCHAR(20) | Nomor telepon |
+
+<img width="429" height="82" alt="Image" src="https://github.com/user-attachments/assets/06446475-19d8-4839-9756-f63fa7151291" />
 
 ### Tabel `barang`
-| Kolom | Tipe | Keterangan |
-|---|---|---|
-| id_barang | INT AUTO_INCREMENT | Primary Key |
-| nama_barang | VARCHAR(100) | Nama barang |
-| stok | INT | Jumlah stok |
-| harga | DECIMAL(10,2) | Harga barang |
-| id_kategori | INT | Foreign Key → kategori |
-| id_supplier | INT | Foreign Key → supplier |
+
+<img width="349" height="42" alt="Image" src="https://github.com/user-attachments/assets/c5950148-b11c-46df-a4ab-06e74ff4edb1" />
 
 ### Tabel `users`
 | Kolom | Tipe | Keterangan |
-|---|---|---|
-| id | INT AUTO_INCREMENT | Primary Key |
-| username | VARCHAR(50) | Username |
-| useremail | VARCHAR(100) | Email |
-| userpassword | VARCHAR(255) | Password |
-
----
+<img width="349" height="42" alt="Image" src="https://github.com/user-attachments/assets/c5950148-b11c-46df-a4ab-06e74ff4edb1" />
+<img width="410" height="80" alt="Image" src="https://github.com/user-attachments/assets/b5df64b4-6e35-4a3e-9759-6e0839116166" />
+<img width="429" height="82" alt="Image" src="https://github.com/user-attachments/assets/06446475-19d8-4839-9756-f63fa7151291" />
+<img width="334" height="82" alt="Image" src="https://github.com/user-attachments/assets/e3854f6e-29c5-4aa4-9f7c-ac1eb493171d" />
 
 ## API Endpoint
 
