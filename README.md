@@ -191,7 +191,8 @@ UAS_Web2_NIM_Nama/
 <img width="960" height="504" alt="Image" src="https://github.com/user-attachments/assets/44190b80-b83b-4ee4-9d5d-f519c2e2cec0" />
 
 ### 8. Pengujian Postman — 401 Unauthorized
-📸 [Screenshot Postman response 401 tanpa token]
+
+<img width="960" height="504" alt="Image" src="https://github.com/user-attachments/assets/3bfacc99-1921-403d-907f-2c9fc7e41ea1" />
 
 ### 9. DevTools Network — Authorization Header
 📸 [Screenshot DevTools menunjukkan Bearer token otomatis]
