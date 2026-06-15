@@ -185,6 +185,12 @@ UAS_Web2_NIM_Nama/
 
 <img width="960" height="504" alt="Image" src="https://github.com/user-attachments/assets/1b172002-6f8f-4235-bb8d-11c31bcde4f4" />
 
+<img width="960" height="504" alt="Image" src="https://github.com/user-attachments/assets/5b5656cb-ff30-4554-afee-4584021039bc" />
+
+<img width="960" height="504" alt="Image" src="https://github.com/user-attachments/assets/8bdbf0d5-b248-419e-877a-f092c160f6e2" />
+
+<img width="960" height="504" alt="Image" src="https://github.com/user-attachments/assets/098365fe-34ac-4b3c-be17-68c6871b66a0" />
+
 
 ### 7. Kelola Supplier
 
