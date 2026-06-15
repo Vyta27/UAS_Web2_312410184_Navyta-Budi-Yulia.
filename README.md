@@ -2,9 +2,13 @@
 # UAS Pemrograman Web 2 — E-Inventory System
 
  **Nama** : Navyta Budi Yulia
+ 
  **NIM** : 312410184
+ 
  **Kelas** : I241B
+ 
  **Mata Kuliah** : Pemrograman Web 2 
+ 
  **Tema** : E-Inventory — Sistem Manajemen Inventaris Barang
 
 ## Deskripsi Proyek
