@@ -69,21 +69,24 @@ UAS_Web2_NIM_Nama/
 ### Tabel `kategori`
 | Kolom | Tipe | Keterangan |
 
-<img width="410" height="80" alt="Image" src="https://github.com/user-attachments/assets/b5df64b4-6e35-4a3e-9759-6e0839116166" />
+<img width="429" height="82" alt="Image" src="https://github.com/user-attachments/assets/06446475-19d8-4839-9756-f63fa7151291" />
 
 ### Tabel `supplier`
 
-<img width="429" height="82" alt="Image" src="https://github.com/user-attachments/assets/06446475-19d8-4839-9756-f63fa7151291" />
+
+<img width="410" height="80" alt="Image" src="https://github.com/user-attachments/assets/b5df64b4-6e35-4a3e-9759-6e0839116166" />
 
 ### Tabel `barang`
 
-<img width="349" height="42" alt="Image" src="https://github.com/user-attachments/assets/c5950148-b11c-46df-a4ab-06e74ff4edb1" />
 
 ### Tabel `users`
-| Kolom | Tipe | Keterangan |
+
 <img width="349" height="42" alt="Image" src="https://github.com/user-attachments/assets/c5950148-b11c-46df-a4ab-06e74ff4edb1" />
+
 <img width="410" height="80" alt="Image" src="https://github.com/user-attachments/assets/b5df64b4-6e35-4a3e-9759-6e0839116166" />
+
 <img width="429" height="82" alt="Image" src="https://github.com/user-attachments/assets/06446475-19d8-4839-9756-f63fa7151291" />
+
 <img width="334" height="82" alt="Image" src="https://github.com/user-attachments/assets/e3854f6e-29c5-4aa4-9f7c-ac1eb493171d" />
 
 ## API Endpoint
