@@ -157,7 +157,8 @@ UAS_Web2_NIM_Nama/
 ## Screenshot
 
 ### 1. Halaman Beranda Publik (Tanpa Login)
-📸 [Screenshot landing page dengan ringkasan data]
+
+<img width="960" height="504" alt="Image" src="https://github.com/user-attachments/assets/fdb43a92-4d44-4d64-8791-20b03d248326" />
 
 ### 2. Halaman Login
 
@@ -183,7 +184,6 @@ UAS_Web2_NIM_Nama/
 
 
 <img width="960" height="504" alt="Image" src="https://github.com/user-attachments/assets/1b172002-6f8f-4235-bb8d-11c31bcde4f4" />
-
 
 
 ### 7. Kelola Supplier
