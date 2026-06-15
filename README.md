@@ -160,22 +160,35 @@ UAS_Web2_NIM_Nama/
 📸 [Screenshot landing page dengan ringkasan data]
 
 ### 2. Halaman Login
-📸 [Screenshot form login]
+
+<img width="960" height="504" alt="Image" src="https://github.com/user-attachments/assets/c8f6f3d7-e23e-4174-a169-19d1d74074f0" />
+
 
 ### 3. Dashboard Admin
-📸 [Screenshot dashboard setelah login]
+
+
+<img width="960" height="504" alt="Image" src="https://github.com/user-attachments/assets/a9f54597-3c4c-4133-9ca2-1db48d9c547e" />
+
 
 ### 4. Kelola Barang
-📸 [Screenshot tabel barang]
+
+
+<img width="960" height="504" alt="Image" src="https://github.com/user-attachments/assets/1abd29d6-d932-4bd7-be1e-2f92bc3f486d" />
+
 
 ### 5. Form Tambah / Edit Barang
 📸 [Screenshot modal form barang]
 
 ### 6. Kelola Kategori
-📸 [Screenshot tabel kategori]
+
+
+<img width="960" height="504" alt="Image" src="https://github.com/user-attachments/assets/1b172002-6f8f-4235-bb8d-11c31bcde4f4" />
+
+
 
 ### 7. Kelola Supplier
-📸 [Screenshot tabel supplier]
+
+<img width="960" height="504" alt="Image" src="https://github.com/user-attachments/assets/44190b80-b83b-4ee4-9d5d-f519c2e2cec0" />
 
 ### 8. Pengujian Postman — 401 Unauthorized
 📸 [Screenshot Postman response 401 tanpa token]
