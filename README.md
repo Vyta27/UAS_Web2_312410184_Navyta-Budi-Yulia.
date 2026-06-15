@@ -190,6 +190,10 @@ UAS_Web2_NIM_Nama/
 
 <img width="960" height="504" alt="Image" src="https://github.com/user-attachments/assets/44190b80-b83b-4ee4-9d5d-f519c2e2cec0" />
 
+<img width="960" height="504" alt="Image" src="https://github.com/user-attachments/assets/9a9f4d61-0473-41d4-ae37-cdb0be8cd652" />
+
+<img width="960" height="504" alt="Image" src="https://github.com/user-attachments/assets/5582d8b0-825a-42e5-beab-ae84d973c951" />
+
 ### 8. Pengujian Postman — 401 Unauthorized
 
 <img width="960" height="504" alt="Image" src="https://github.com/user-attachments/assets/3bfacc99-1921-403d-907f-2c9fc7e41ea1" />
