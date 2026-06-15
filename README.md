@@ -217,7 +217,10 @@ UAS_Web2_NIM_Nama/
 <img width="960" height="504" alt="Image" src="https://github.com/user-attachments/assets/3bfacc99-1921-403d-907f-2c9fc7e41ea1" />
 
 ### 9. DevTools Network — Authorization Header
-📸 [Screenshot DevTools menunjukkan Bearer token otomatis]
+
+<img width="960" height="504" alt="Image" src="https://github.com/user-attachments/assets/66da883a-55f3-46aa-8ee9-bb1728f0d51c" />
+
+<img width="960" height="504" alt="Image" src="https://github.com/user-attachments/assets/54790469-cfec-4475-9069-328c095ad784" />
 
 ### 10. Skema Database phpMyAdmin
 📸 [Screenshot relasi tabel di phpMyAdmin Designer]
