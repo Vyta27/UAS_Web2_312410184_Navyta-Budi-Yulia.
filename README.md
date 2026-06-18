@@ -18,6 +18,8 @@ E-Inventory System adalah aplikasi manajemen inventaris barang berbasis web yang
 - **Backend** → CodeIgniter 4 sebagai RESTful API Server
 - **Frontend** → VueJS 3 SPA dengan TailwindCSS
 - **Autentikasi** → Token Bearer dengan CI4 Filters + Axios Interceptors
+- **Database** → MySQL dengan 4 tabel yang saling berelasi
+
 
 
 ## Struktur Folder
