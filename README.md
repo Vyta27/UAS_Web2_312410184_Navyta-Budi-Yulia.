@@ -231,6 +231,5 @@ UAS_Web2_NIM_Nama/
 
 ## Link
 
-- **Repository GitHub:** [Link GitHub]
-- **Video Presentasi YouTube:** [Link YouTube]
-- **Form Pengumpulan:** https://forms.gle/WZLj2XDxPupppc869
+- **Video Presentasi YouTube:** https://youtu.be/IozxQqENGfk
+- **Video Demo:** https://youtu.be/aN8N3eZDKPg
