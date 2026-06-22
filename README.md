@@ -232,4 +232,4 @@ UAS_Web2_NIM_Nama/
 ## Link
 
 - **Video Presentasi YouTube:** https://youtu.be/IozxQqENGfk
-- **Video Demo:** https://youtu.be/aN8N3eZDKPg
+- **Link Demo:** http://einventory-barang.free.je/frontend-spa/
